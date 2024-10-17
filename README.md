@@ -1,14 +1,8 @@
 # MS_Thesis
 My Master Thesis Work
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>REAGLE Framework</title>
-</head>
-<body>
+<title>Dynamic Edge Weighting in Relational Graph Convolutional Networks:
+Enhancing Sample Efficiency via Graph Attention in Reinforcement Learning</title>
 
 <h1> Abstract</h1>
 Reinforcement Learning (RL) has achieved remarkable success across a variety of do-
