@@ -30,8 +30,8 @@ achieving faster learning, better decision quality, and significantly lower samp
 ity.
 
 <figure>
-        <img src="Heatmaps and Visualizations/REAGLE_3.drawio.png" alt="REAGLE Framework" style="width:100%;max-width:600px;">
-        <figcaption>Figure: REAGLE Framework demonstrating dynamic edge weighting in RL environments.</figcaption>
+        <img src="Heatmaps and Visualizations/High_Level_architecture.drawio (2).png" alt="REAGLE Framework" style="width:100%;max-width:600px;">
+        <figcaption>Overview of the Framework.</figcaption>
     </figure>
 
 
