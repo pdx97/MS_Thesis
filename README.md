@@ -1,9 +1,9 @@
 # MS_Thesis
 My Master Thesis Work
 
-###<h1>Title : Dynamic Edge Weighting in Relational Graph Convolutional Networks: Enhancing Sample Efficiency via Graph Attention in Reinforcement Learning Learning</h1>
+<h1>Title : Dynamic Edge Weighting in Relational Graph Convolutional Networks: Enhancing Sample Efficiency via Graph Attention in Reinforcement Learning Learning</h1>
 
-###<h2>Abstract:</h2>
+<h2>Abstract:</h2>
 
 Reinforcement Learning (RL) has achieved remarkable success across various domains, yet sample complexity remains a challenge, especially when actions are taken in the
 real world. To improve the effectiveness of RL, researchers have turned to deep neural networks that learn useful representations of the data that can improve and speed up the learning process. In particular, Graph Neural Networks (GNNs) have emerged as a powerful tool
