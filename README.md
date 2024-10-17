@@ -31,8 +31,8 @@ ity.
 
 <figure>
         <img src="Heatmaps and Visualizations/High_Level_architecture.drawio (2).png" alt="REAGLE Framework" style="width:100%;max-width:600px;">
-        <figcaption>Overview of the Framework.</figcaption>
-    </figure>
+        <figcaption style="text-align: center;">Overview of the Framework.</figcaption>
+</figure>
 
 
 
