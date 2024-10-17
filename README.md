@@ -30,8 +30,8 @@ achieving faster learning, better decision quality, and significantly lower samp
 ity.
 
 <figure>
-        <img src="Heatmaps and Visualizations/High_Level_architecture.drawio (2).png" alt="REAGLE Framework" style="width:100%;max-width:600px;">
-        <figcaption style="text-align: center;">Overview of the Framework.</figcaption>
+    <img src="Heatmaps and Visualizations/High_Level_architecture.drawio (2).png" alt="REAGLE Framework" style="width:100%;max-width:600px;">
+    <figcaption style="text-align:center;">Overview of the Framework.</figcaption>
 </figure>
 
 
