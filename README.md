@@ -29,8 +29,10 @@ that REAGLE surpasses conventional graph-based reinforcement learning algorithms
 achieving faster learning, better decision quality, and significantly lower sample complex-
 ity.
 
-</body>
-</html>
+<figure>
+        <img src="Heatmaps and Visualizations/REAGLE_3.drawio.png" alt="REAGLE Framework" style="width:100%;max-width:600px;">
+        <figcaption>Figure: REAGLE Framework demonstrating dynamic edge weighting in RL environments.</figcaption>
+    </figure>
 
 
 
